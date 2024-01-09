@@ -1,0 +1,21 @@
+export const colors = {
+  grass: "#c4e4d4",
+  poison: "#c183c1",
+  fire: "#fddfdf",
+  flying: "#c6def6",
+  water: "#9db7f5",
+  bug: "#c6d16e",
+  normal: "#c6c6a7",
+  electric: "#fae078",
+  ground: "#f4e7da",
+  fairy: "#fceaff",
+  fighting: "#d67873",
+  psychic: "#fa92b2",
+  rock: "#d1c17d",
+  steel: "#d1d1e0",
+  ice: "#bce6e6",
+  ghost: "#a292bc",
+  dragon: "#a27dfa",
+  dark: "#a29288",
+};
+export const GET_ALL_URL = "https://pokeapi.co/api/v2/pokemon";
